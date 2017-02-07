@@ -347,6 +347,7 @@ p#one {
 	width: 1312px;
 	color: #555;
 	text-align: center;
+	width: 100%
 }
 #footer p{
 	line-height: 70px;
